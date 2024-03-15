@@ -4826,6 +4826,12 @@
 		(uuid "1b6a4ec0-6436-4854-9391-541155880cd5")
 	)
 	(junction
+		(at 46.99 200.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1cf98e14-e119-4e52-a0d0-b27feb055a59")
+	)
+	(junction
 		(at 58.42 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5477,6 +5483,16 @@
 	)
 	(wire
 		(pts
+			(xy 41.91 203.2) (xy 46.99 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55667943-1209-463a-9a50-e4c582efefc7")
+	)
+	(wire
+		(pts
 			(xy 73.66 228.6) (xy 86.36 228.6)
 		)
 		(stroke
@@ -5757,7 +5773,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 200.66) (xy 52.07 200.66)
+			(xy 34.29 200.66) (xy 46.99 200.66)
 		)
 		(stroke
 			(width 0)
@@ -5947,6 +5963,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 200.66) (xy 52.07 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad49178f-2b93-4c27-a752-aace740a0aac")
+	)
+	(wire
+		(pts
 			(xy 298.45 219.71) (xy 313.69 219.71)
 		)
 		(stroke
@@ -6094,6 +6120,16 @@
 			(type default)
 		)
 		(uuid "c4f30805-ae87-49ba-9b98-b8694f22d228")
+	)
+	(wire
+		(pts
+			(xy 46.99 200.66) (xy 46.99 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6691b0a-2561-4ef6-bf19-be320a118bde")
 	)
 	(wire
 		(pts
@@ -6377,6 +6413,39 @@
 		)
 		(uuid "0ca43bea-3e1e-48ee-9fd2-f7ef08b43286")
 	)
+	(label "FLASH_D1"
+		(at 90.17 139.7 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0e1046db-f2ad-4c88-81cd-a0810ca6244a")
+	)
+	(label "FLASH_D2"
+		(at 90.17 142.24 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "10459c61-f47d-46af-bf54-7a96207f23ee")
+	)
+	(label "FLASH_D0"
+		(at 90.17 137.16 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "10cb6b72-bf78-4982-bc20-632bdd2e6f8c")
+	)
 	(label "XTAL_IN"
 		(at 86.36 160.02 0)
 		(fields_autoplaced yes)
@@ -6398,6 +6467,17 @@
 			(justify left bottom)
 		)
 		(uuid "166d9373-d97b-4da2-8413-e2cb58639083")
+	)
+	(label "FLASH_D3"
+		(at 90.17 144.78 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1d93fd4d-2ef2-4125-a043-a684f8fe34f4")
 	)
 	(label "LED_DAT_5V"
 		(at 299.72 81.28 0)
@@ -6431,6 +6511,17 @@
 			(justify left bottom)
 		)
 		(uuid "28e1dfbc-a60d-41c5-ba32-7419832fdd98")
+	)
+	(label "USB_RP_D+"
+		(at 88.9 121.92 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2aa4bb10-ad45-46d3-8442-0197eaea84ce")
 	)
 	(label "PAIR_IN_TX"
 		(at 190.5 57.15 0)
@@ -6674,6 +6765,17 @@
 		)
 		(uuid "a0982695-6f35-4ab2-b299-a3c425bd7a33")
 	)
+	(label "XR"
+		(at 45.72 203.2 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b93af678-617f-4e25-a3f2-50c90fa95f76")
+	)
 	(label "USB_D+"
 		(at 67.31 38.1 0)
 		(fields_autoplaced yes)
@@ -6717,6 +6819,39 @@
 			(justify left bottom)
 		)
 		(uuid "e16f9f17-4367-445d-a732-be16aede8f66")
+	)
+	(label "FLASH_~{SS}"
+		(at 90.17 132.08 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e2211aa1-2a08-4c2b-92e3-878f80ecc00a")
+	)
+	(label "USB_RP_D-"
+		(at 88.9 124.46 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e5ca8dd5-13da-40de-8479-77153ac95954")
+	)
+	(label "FLASH_SCK"
+		(at 90.17 147.32 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e8b2d88f-929f-4016-9f22-df4293fe326e")
 	)
 	(label "XTAL_OUT"
 		(at 62.23 200.66 0)
