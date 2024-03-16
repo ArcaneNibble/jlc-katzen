@@ -5030,16 +5030,104 @@
 		(uuid "ffba426b-08fa-431e-a2c1-3c191278b361")
 	)
 	(no_connect
+		(at 152.4 162.56)
+		(uuid "02a03772-56f1-427d-8110-6e46ecf35b55")
+	)
+	(no_connect
+		(at 152.4 127)
+		(uuid "09cd10da-4745-46ac-82ba-d825962d9530")
+	)
+	(no_connect
+		(at 152.4 137.16)
+		(uuid "09e26c3d-bacb-4a2b-a671-f829928992f2")
+	)
+	(no_connect
+		(at 152.4 132.08)
+		(uuid "0dbc424a-5140-42f2-ac7f-f6bb980862da")
+	)
+	(no_connect
 		(at 45.72 50.8)
 		(uuid "12201b56-7d13-4548-bf64-5b78378e6a77")
+	)
+	(no_connect
+		(at 152.4 154.94)
+		(uuid "2dcfe56f-78df-44a8-bc64-893969c2ccac")
+	)
+	(no_connect
+		(at 152.4 152.4)
+		(uuid "3d374edf-87aa-436c-9cd2-1610d8fd3589")
+	)
+	(no_connect
+		(at 152.4 177.8)
+		(uuid "4c1a77cd-3fc1-431f-8a04-39af44ad1c52")
 	)
 	(no_connect
 		(at 45.72 53.34)
 		(uuid "6b4b0e0d-8a1f-42f5-821e-fd4e9f6346cb")
 	)
 	(no_connect
+		(at 351.79 144.78)
+		(uuid "89c326ef-3f11-497f-891a-ee039564bf91")
+	)
+	(no_connect
+		(at 152.4 124.46)
+		(uuid "8b84944d-d5ef-417a-9301-5de429da85ea")
+	)
+	(no_connect
+		(at 152.4 134.62)
+		(uuid "8b9c9abf-d9d8-4241-b2e3-56ce1d10790c")
+	)
+	(no_connect
+		(at 351.79 142.24)
+		(uuid "8ce03159-e677-41c2-900e-8a7112a2c751")
+	)
+	(no_connect
+		(at 152.4 172.72)
+		(uuid "8fb498e9-65df-4975-9f5b-3cbdd579ae57")
+	)
+	(no_connect
+		(at 152.4 170.18)
+		(uuid "9cbee022-0d2a-427f-8f7c-00218d303445")
+	)
+	(no_connect
+		(at 152.4 116.84)
+		(uuid "9d052954-de55-4697-9081-839ea8976a19")
+	)
+	(no_connect
 		(at 73.66 233.68)
 		(uuid "a5a43e9b-85f7-4cd3-92b3-07f27a893d5f")
+	)
+	(no_connect
+		(at 152.4 160.02)
+		(uuid "a5dd3292-ac6e-4555-9feb-b35b8da9ddc6")
+	)
+	(no_connect
+		(at 152.4 114.3)
+		(uuid "beffb98d-8f10-4c75-b9a1-7c016e71e9a1")
+	)
+	(no_connect
+		(at 152.4 175.26)
+		(uuid "cc60f700-8de4-4fe5-a8cb-b850c6ea9428")
+	)
+	(no_connect
+		(at 152.4 149.86)
+		(uuid "daeab7f1-6d14-4125-bead-a87291d65e8d")
+	)
+	(no_connect
+		(at 152.4 157.48)
+		(uuid "dd9eb51e-b84c-48a1-974e-6db22ddfb388")
+	)
+	(no_connect
+		(at 152.4 190.5)
+		(uuid "e231fcc6-cf08-406f-8d8f-20dd397a29fc")
+	)
+	(no_connect
+		(at 152.4 187.96)
+		(uuid "ec98c331-0f13-4261-91d1-08518ccad329")
+	)
+	(no_connect
+		(at 152.4 129.54)
+		(uuid "faa5d815-76c0-44db-9d0f-57482d2789e7")
 	)
 	(wire
 		(pts
@@ -6800,16 +6888,6 @@
 			(type default)
 		)
 		(uuid "feeb7b22-91d0-4b1e-ab32-4f2e62de9c80")
-	)
-	(text "TODO OPTIMIZE PINOUT"
-		(exclude_from_sim no)
-		(at 165.862 102.616 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "2de4b06d-8a24-42f7-adfd-145f405bf56f")
 	)
 	(text "Vf = 1 V - 1.5 V\nassume Vf = 1.25 V\ntarget If = 20 mA\nR = (5 V - 1.25 V) / (20 mA)\n  = 187.5 Ohm\n  -> 200 Ohm is the closest on JLC\nworst case current -> 17.5 mA"
 		(exclude_from_sim no)

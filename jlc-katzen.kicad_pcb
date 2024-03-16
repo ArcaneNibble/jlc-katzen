@@ -5762,7 +5762,7 @@
 			(roundrect_rratio 0.25)
 			(net 94 "unconnected-(U3-GPIO0-Pad2)")
 			(pinfunction "GPIO0")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "ab17e4f4-22f9-4910-bfc0-54ff58920784")
 		)
 		(pad "3" smd roundrect
@@ -5772,7 +5772,7 @@
 			(roundrect_rratio 0.25)
 			(net 93 "unconnected-(U3-GPIO1-Pad3)")
 			(pinfunction "GPIO1")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "a712fd7e-8063-45ad-a164-0fdd45a8fcf4")
 		)
 		(pad "4" smd roundrect
@@ -5802,7 +5802,7 @@
 			(roundrect_rratio 0.25)
 			(net 47 "unconnected-(U3-GPIO4-Pad6)")
 			(pinfunction "GPIO4")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "83b60761-b0da-4f83-9bab-96d6e3b8bc1a")
 		)
 		(pad "7" smd roundrect
@@ -5812,7 +5812,7 @@
 			(roundrect_rratio 0.25)
 			(net 32 "unconnected-(U3-GPIO5-Pad7)")
 			(pinfunction "GPIO5")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "049e26d2-178d-4f2e-88e9-3b2c41ba037c")
 		)
 		(pad "8" smd roundrect
@@ -5822,7 +5822,7 @@
 			(roundrect_rratio 0.25)
 			(net 33 "unconnected-(U3-GPIO6-Pad8)")
 			(pinfunction "GPIO6")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "41a9454d-a3bc-4e23-b797-2fa295344eea")
 		)
 		(pad "9" smd roundrect
@@ -5832,7 +5832,7 @@
 			(roundrect_rratio 0.25)
 			(net 35 "unconnected-(U3-GPIO7-Pad9)")
 			(pinfunction "GPIO7")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "a8713b8a-5124-4252-aa55-e63e530bc8ba")
 		)
 		(pad "10" smd roundrect
@@ -5852,7 +5852,7 @@
 			(roundrect_rratio 0.25)
 			(net 44 "unconnected-(U3-GPIO8-Pad11)")
 			(pinfunction "GPIO8")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "5309955c-ef30-4766-af99-3a7e6740add4")
 		)
 		(pad "12" smd roundrect
@@ -5862,7 +5862,7 @@
 			(roundrect_rratio 0.25)
 			(net 43 "unconnected-(U3-GPIO9-Pad12)")
 			(pinfunction "GPIO9")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "8275efd9-1802-43a7-b3d7-5d3e1aa138b7")
 		)
 		(pad "13" smd roundrect
@@ -5912,7 +5912,7 @@
 			(roundrect_rratio 0.25)
 			(net 38 "unconnected-(U3-GPIO14-Pad17)")
 			(pinfunction "GPIO14")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "4efe2ec3-64a9-4563-a163-df345a1eadb9")
 		)
 		(pad "18" smd roundrect
@@ -5922,7 +5922,7 @@
 			(roundrect_rratio 0.25)
 			(net 40 "unconnected-(U3-GPIO15-Pad18)")
 			(pinfunction "GPIO15")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "fc88db9b-c813-4c67-8692-1e0742a2b9d2")
 		)
 		(pad "19" smd roundrect
@@ -6012,7 +6012,7 @@
 			(roundrect_rratio 0.25)
 			(net 45 "unconnected-(U3-GPIO16-Pad27)")
 			(pinfunction "GPIO16")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "74ca114b-fba2-4ffe-829a-2e0fd1cce9f9")
 		)
 		(pad "28" smd roundrect
@@ -6022,7 +6022,7 @@
 			(roundrect_rratio 0.25)
 			(net 48 "unconnected-(U3-GPIO17-Pad28)")
 			(pinfunction "GPIO17")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "50ff0af7-8e15-4d8e-a8ad-7891ac6f2533")
 		)
 		(pad "29" smd roundrect
@@ -6032,7 +6032,7 @@
 			(roundrect_rratio 0.25)
 			(net 34 "unconnected-(U3-GPIO18-Pad29)")
 			(pinfunction "GPIO18")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "dfdc15d6-89f1-4486-88d7-8710077661cb")
 		)
 		(pad "30" smd roundrect
@@ -6042,7 +6042,7 @@
 			(roundrect_rratio 0.25)
 			(net 49 "unconnected-(U3-GPIO19-Pad30)")
 			(pinfunction "GPIO19")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "1dcd2755-0ed6-4150-9516-b3abbca10e0a")
 		)
 		(pad "31" smd roundrect
@@ -6082,7 +6082,7 @@
 			(roundrect_rratio 0.25)
 			(net 46 "unconnected-(U3-GPIO22-Pad34)")
 			(pinfunction "GPIO22")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "202f7f27-08d6-4531-9347-3cf28a7e7413")
 		)
 		(pad "35" smd roundrect
@@ -6092,7 +6092,7 @@
 			(roundrect_rratio 0.25)
 			(net 37 "unconnected-(U3-GPIO23-Pad35)")
 			(pinfunction "GPIO23")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "6c27ddac-8ec5-4943-b602-01e998d436ef")
 		)
 		(pad "36" smd roundrect
@@ -6102,7 +6102,7 @@
 			(roundrect_rratio 0.25)
 			(net 36 "unconnected-(U3-GPIO24-Pad36)")
 			(pinfunction "GPIO24")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "e028fbeb-b861-411a-b373-a73c5fd6b872")
 		)
 		(pad "37" smd roundrect
@@ -6112,7 +6112,7 @@
 			(roundrect_rratio 0.25)
 			(net 31 "unconnected-(U3-GPIO25-Pad37)")
 			(pinfunction "GPIO25")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "89b20bd5-3eec-4a62-b5c5-206296d192c9")
 		)
 		(pad "38" smd roundrect
@@ -6142,7 +6142,7 @@
 			(roundrect_rratio 0.25)
 			(net 39 "unconnected-(U3-GPIO28_ADC2-Pad40)")
 			(pinfunction "GPIO28_ADC2")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "92911d17-db1d-4886-bee5-c0b6d7f113df")
 		)
 		(pad "41" smd roundrect
@@ -6152,7 +6152,7 @@
 			(roundrect_rratio 0.25)
 			(net 41 "unconnected-(U3-GPIO29_ADC3-Pad41)")
 			(pinfunction "GPIO29_ADC3")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "000b860e-0390-4eae-82cf-2bffae55d988")
 		)
 		(pad "42" smd roundrect
@@ -11588,7 +11588,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 92 "unconnected-(D17-SDO-Pad1)")
 			(pinfunction "SDO")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "c62310bb-e8b7-480d-9a79-cc3fa0a7ad90")
 		)
 		(pad "2" smd rect
@@ -11633,7 +11633,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 91 "unconnected-(D17-CKO-Pad6)")
 			(pinfunction "CKO")
-			(pintype "output")
+			(pintype "output+no_connect")
 			(uuid "4f302e3b-6ed3-4d79-857b-55149f605457")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED-APA102-2020.wrl"
