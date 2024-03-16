@@ -6930,7 +6930,7 @@
 		(uuid "e3077b42-b199-474a-a756-2c006f3c0cb5")
 	)
 	(label "XTAL_OUT"
-		(at 86.36 170.18 0)
+		(at 83.82 170.18 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6985,7 +6985,7 @@
 		(uuid "10cb6b72-bf78-4982-bc20-632bdd2e6f8c")
 	)
 	(label "XTAL_IN"
-		(at 86.36 160.02 0)
+		(at 83.82 160.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6996,13 +6996,13 @@
 		(uuid "15c50193-2df2-4130-8574-159c796cd771")
 	)
 	(label "PAIR_OUT_RX"
-		(at 160.02 167.64 0)
+		(at 172.72 167.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "166d9373-d97b-4da2-8413-e2cb58639083")
 	)
@@ -7018,7 +7018,7 @@
 		(uuid "1d93fd4d-2ef2-4125-a043-a684f8fe34f4")
 	)
 	(label "LED_DAT_5V"
-		(at 260.35 76.2 0)
+		(at 259.08 76.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7029,7 +7029,7 @@
 		(uuid "1e309e4f-be01-4848-bb31-d34cc75410fc")
 	)
 	(label "~{RESET}"
-		(at 71.12 114.3 0)
+		(at 69.85 114.3 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7040,13 +7040,13 @@
 		(uuid "1e62ecdc-1fb9-4200-b671-777e06f676b4")
 	)
 	(label "IR_RX"
-		(at 166.37 137.16 0)
+		(at 172.72 137.16 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "28e1dfbc-a60d-41c5-ba32-7419832fdd98")
 	)
@@ -7062,40 +7062,40 @@
 		(uuid "2aa4bb10-ad45-46d3-8442-0197eaea84ce")
 	)
 	(label "PAIR_IN_TX"
-		(at 190.5 57.15 0)
+		(at 203.2 57.15 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "3317a71a-bdc0-4b8f-b6d0-9e156647de9d")
 	)
 	(label "PAIR_IN_RX"
-		(at 190.5 54.61 0)
+		(at 203.2 54.61 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "388a9b0a-6693-4b84-80dd-6059b9c41a58")
 	)
 	(label "XTAL_IN"
-		(at 62.23 190.5 0)
+		(at 73.66 190.5 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "39aa73d6-21c5-4f2b-bb12-d290a08eb5b1")
 	)
 	(label "IR_TX"
-		(at 184.15 254 0)
+		(at 182.88 254 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7106,29 +7106,29 @@
 		(uuid "406b46b9-e8cd-4ce1-b921-8d3a000aeef1")
 	)
 	(label "SWCLK"
-		(at 78.74 228.6 0)
+		(at 86.36 228.6 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "4ce26209-34e9-46d2-a7b0-5fe0dcae0080")
 	)
 	(label "CC1"
-		(at 67.31 27.94 0)
+		(at 76.2 27.94 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "50740dc6-223b-4ed1-b40a-6738fbbbdf85")
 	)
 	(label "SWDIO"
-		(at 85.09 182.88 0)
+		(at 83.82 182.88 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7150,40 +7150,40 @@
 		(uuid "5890d426-c9d5-4e9e-b2cf-4647ec40552a")
 	)
 	(label "PAIR_OUT_RX"
-		(at 190.5 82.55 0)
+		(at 203.2 82.55 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "5afcf9e8-fcff-43da-91db-1a11ffba9c6c")
 	)
 	(label "PAIR_OUT_TX"
-		(at 190.5 80.01 0)
+		(at 203.2 80.01 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "6dea198e-654a-4207-af4f-a5efea6f12a0")
 	)
 	(label "IR_TX"
-		(at 166.37 139.7 0)
+		(at 172.72 139.7 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "6ea7525d-51a6-41b3-ac30-01f0a652ef1a")
 	)
 	(label "CC1"
-		(at 170.18 182.88 180)
+		(at 171.45 182.88 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7194,7 +7194,7 @@
 		(uuid "844024a8-2f83-4309-9d75-67415fbd2029")
 	)
 	(label "USB_D-"
-		(at 71.12 124.46 0)
+		(at 69.85 124.46 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7205,7 +7205,7 @@
 		(uuid "894f7458-5537-4fb0-b19a-b51aaf6b2d5d")
 	)
 	(label "USB_D+"
-		(at 71.12 121.92 0)
+		(at 69.85 121.92 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7216,73 +7216,73 @@
 		(uuid "8b43e8e2-bb55-4b7e-84c6-fd29ebdac487")
 	)
 	(label "PAIR_IN_TX"
-		(at 161.29 144.78 0)
+		(at 172.72 144.78 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "8be08c3d-ed57-4f81-b89d-9c130bf8a57b")
 	)
 	(label "~{RESET}"
-		(at 78.74 223.52 0)
+		(at 86.36 223.52 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "9274b160-dea7-4072-bdd8-fef0511cf576")
 	)
 	(label "USB_D-"
-		(at 67.31 40.64 0)
+		(at 76.2 40.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "92e8b0e9-0f6b-4ef6-b119-0a6ac61c2c0b")
 	)
 	(label "CC2"
-		(at 67.31 30.48 0)
+		(at 76.2 30.48 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "9482b213-ba81-48a3-b729-15a4ddb17bc8")
 	)
 	(label "PAIR_IN_RX"
-		(at 161.29 147.32 0)
+		(at 172.72 147.32 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "962cac7f-614c-497b-8c76-0d0e6acea989")
 	)
 	(label "LED_CLK_5V"
-		(at 226.06 121.92 0)
+		(at 241.3 121.92 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "9b12c7c7-8cab-4e78-b065-b3fdaef701d0")
 	)
 	(label "CC2"
-		(at 170.18 185.42 180)
+		(at 171.45 185.42 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7293,18 +7293,7 @@
 		(uuid "9d4224e2-69c5-4afc-8ca4-613ee7fdb1fd")
 	)
 	(label "PAIR_OUT_TX"
-		(at 160.02 165.1 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a0982695-6f35-4ab2-b299-a3c425bd7a33")
-	)
-	(label "XR"
-		(at 45.72 203.2 180)
+		(at 172.72 165.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7312,32 +7301,43 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "b93af678-617f-4e25-a3f2-50c90fa95f76")
+		(uuid "a0982695-6f35-4ab2-b299-a3c425bd7a33")
 	)
-	(label "USB_D+"
-		(at 67.31 38.1 0)
+	(label "XR"
+		(at 41.91 203.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
+		)
+		(uuid "b93af678-617f-4e25-a3f2-50c90fa95f76")
+	)
+	(label "USB_D+"
+		(at 76.2 38.1 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
 		)
 		(uuid "c462a29b-2118-4e4e-8ea0-cc98c5a6b520")
 	)
 	(label "LED_DAT_5V"
-		(at 226.06 153.67 0)
+		(at 241.3 153.67 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "ceec45dd-71f4-49a2-863a-94d9f3b4d3df")
 	)
 	(label "LED_CLK_5V"
-		(at 260.35 78.74 0)
+		(at 259.08 78.74 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7348,7 +7348,7 @@
 		(uuid "e0d050db-f59a-404d-a8f7-d4608cc2f00f")
 	)
 	(label "IR_RX"
-		(at 99.06 254 0)
+		(at 97.79 254 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7392,29 +7392,29 @@
 		(uuid "e8b2d88f-929f-4016-9f22-df4293fe326e")
 	)
 	(label "XTAL_OUT"
-		(at 62.23 200.66 0)
+		(at 73.66 200.66 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "f1a86300-7835-46df-9b42-6f49f1676043")
 	)
 	(label "SWDIO"
-		(at 78.74 231.14 0)
+		(at 86.36 231.14 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "f3b0cf5c-f2a3-4f8a-9c9d-0bdb4d9fcc9c")
 	)
 	(label "SWCLK"
-		(at 85.09 180.34 0)
+		(at 83.82 180.34 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16926,7 +16926,7 @@
 			)
 		)
 		(property "Value" "IRM-H638T/TR2"
-			(at 134.62 255.27 0)
+			(at 127.254 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
