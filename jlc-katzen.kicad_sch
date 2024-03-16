@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "31951dc5-d41c-4b7e-937a-6da562e1cccc")
 	(paper "A3")
+	(title_block
+		(title "JLCPCB Katzenohren assembly practice board")
+		(date "2024-03-16")
+		(rev "A")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_ARM_SWD_TagConnect_TC2030"
 			(exclude_from_sim no)
@@ -6918,16 +6923,6 @@
 			)
 		)
 		(uuid "e274d65a-bdf4-496a-ac9e-7fdc23b7a4d8")
-	)
-	(text "FIGURE OUT HOW MANY FIT ON THE BOARD"
-		(exclude_from_sim no)
-		(at 322.58 59.944 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "e3077b42-b199-474a-a756-2c006f3c0cb5")
 	)
 	(label "XTAL_OUT"
 		(at 83.82 170.18 0)
