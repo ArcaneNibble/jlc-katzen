@@ -5038,7 +5038,7 @@
 		(uuid "09cd10da-4745-46ac-82ba-d825962d9530")
 	)
 	(no_connect
-		(at 152.4 137.16)
+		(at 152.4 142.24)
 		(uuid "09e26c3d-bacb-4a2b-a671-f829928992f2")
 	)
 	(no_connect
@@ -5601,7 +5601,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 142.24) (xy 172.72 142.24)
+			(xy 152.4 137.16) (xy 172.72 137.16)
 		)
 		(stroke
 			(width 0)
@@ -7040,7 +7040,7 @@
 		(uuid "1e62ecdc-1fb9-4200-b671-777e06f676b4")
 	)
 	(label "IR_RX"
-		(at 166.37 142.24 0)
+		(at 166.37 137.16 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
