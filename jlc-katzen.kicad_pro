@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.09999999999999999,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.3
+          "min_clearance": 1.0
         }
       },
       "diff_pair_dimensions": [
@@ -501,8 +501,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "revA",
+      "pos_files": "revA",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
