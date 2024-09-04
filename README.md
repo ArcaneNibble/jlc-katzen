@@ -4,4 +4,5 @@
 
 ## ERRATA
 
-USB D+/D- are flipped!
+* USB D+/D- are flipped!
+* wrong crystal load capacitors
