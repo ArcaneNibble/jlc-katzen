@@ -147,7 +147,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "revA1")
+			(outputdirectory "")
 		)
 	)
 	(net 0 "")
